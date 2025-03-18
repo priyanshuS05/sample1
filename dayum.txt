@@ -1,1 +1,0 @@
-To create a remote repository and push changes from your local Git repository, follow these steps. I'll show you how to do it using GitHub, but the process is similar for other services like GitLab or Bitbucket.
