@@ -1,0 +1,7 @@
+studName=input(print("enter teh name"))
+studusn=input(print("enter teh usn"))
+studept=input(print("enter teh department"))
+
+print("the student name  {studName}")
+print("the student name  {studusn}")
+print("the student name  {studept}")
